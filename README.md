@@ -1,6 +1,6 @@
 # Demo jenkins pipeline
 
-##Stages:
+## Stages:
 
 - Checkout Source Code
 - Quality Scan using SonarQube
@@ -11,6 +11,6 @@
 - Remove local image
 
 
-I'll also leave a docker swarm stack to deploy everything that is needed
+Deploy stack with this [link](https://github.com/yvalencia91/jenkins-swarm-stack)
 
 
